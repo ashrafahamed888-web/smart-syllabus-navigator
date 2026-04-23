@@ -4,7 +4,7 @@ from resource_finder import get_youtube_videos
 from schedule_generator import generate_schedule
 import fitz  # PyMuPDF
 
-st.title("📚 Smart Syllabus Navigator")
+st.title("📚 Ashraf's Smart Syllabus Navigator")
 st.subheader("Your AI-powered study planner")
 
 # --- Input Section ---
